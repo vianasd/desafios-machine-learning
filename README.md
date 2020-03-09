@@ -2,7 +2,7 @@
 
 <b>Dessa maneira para acessá-lo:</b>
 
-1º Se não possuir conta no google:
+1º Se não possuir conta no google
 
 (Você conseguirá ver o código, porém não conseguirá executá-lo)
 <ul>
@@ -16,7 +16,7 @@ habilitei a edição para a execução do código, ou se prefirir:
 
 <li>Apertar na palavra File no canto superior esquerdo.</li>
 
-<li>Apertar em upload notebook(Para tal será necessário estar logado em uma conta do google)</li>
+<li>Apertar em upload notebook</li>
 
 <li>Apertar em upload.</li>
 
@@ -36,7 +36,7 @@ de dados sem ocorrer overfitting. Nesse aspecto, no pré-processamento fiz um tr
 levando em consideração o dataset que eu possuía. Já no processamento, foquei minha verificação na accuracy, visto que 
 um sistema preditivo de doença pode gerar incomodos se der tanto Falso-Positivo quanto Falso-Negativo. Todavia, calculei também
 o recall e o f1 score caso seja interessante para a sua análise. Nesse âmago, verifiquei a accuracy tanto no sistema de 
-treinamento quanto no de teste para verificar qual modelo havia se adaptado melhor ao modelo sem ser incapaz de prever novos
+treinamento quanto no de teste para verificar qual modelo havia se adaptado melhor ao problema sem ser incapaz de prever novos
 dados e para finalizar o processo de validação e testes, eu fiz uma pequena conclusão sob meu ponto de vista que obtive nesses
 dias de estudo.
 
