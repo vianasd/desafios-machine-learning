@@ -1,15 +1,15 @@
-﻿	<h1>Meu programa foi feito no google colab em python</h1>
+﻿<h1>Meu programa foi feito no google colab em python</h1>
 
 <b>Dessa maneira para acessá-lo:</b>
 
 1º Se não possuir conta no google:
 
-(Voçê conseguirá ver o código, porém não conseguirá executá-lo)
+(Você conseguirá ver o código, porém não conseguirá executá-lo)
 <ul>
 <li>Você deve acessar o link  --> <a href="https://colab.research.google.com/drive/1qhkuYmejKcraI7PKgJyZodzgKewKiEci">Projeto</a></li>
 </ul>
 
-2º Se possuir conta no google, voçê pode acessar o link anterior, pois
+2º Se possuir conta no google, você pode acessar o link anterior, pois
 habilitei a edição para a execução do código, ou se prefirir:
 <ul>
 <li>Entrar no google colab, link --> <a href="https://colab.research.google.com/notebooks/intro.ipynb">Colab.Google</a></li>
