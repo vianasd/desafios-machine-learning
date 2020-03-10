@@ -22,7 +22,7 @@ habilitei a edição para a execução do código, ou se prefirir:
 
 <li>Escolher arquivo.</li>
 
-<li>Pegue o arquivo DeepLearning.ipynb.</li>
+<li>Pegue o arquivo MachineLearning.ipynb.</li>
 </ul>
 
 A primeira sessão aborda informações detalhadas descrevendo como treinar/importar o dataset e rodar o programa, visto que é necessário
